@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: HyeonKyun's Dev Blog
-subtitle:
+title: Baeklog
+subtitle: HyeonKyun's Dev Blog
 description:
 author: HyeonKyun Baek
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -142,7 +142,6 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
 
 
 
