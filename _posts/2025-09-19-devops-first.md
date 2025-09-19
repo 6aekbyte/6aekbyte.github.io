@@ -1,6 +1,6 @@
 ---
 title: 컨테이너 오케스트레이션
-date: 2025-09-19
+date: 2025-09-19 12:00:00 +0900
 categories:
   - devops
 tags:

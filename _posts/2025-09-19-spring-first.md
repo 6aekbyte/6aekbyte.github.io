@@ -1,6 +1,6 @@
 ---
 title: DispatcherServlet
-date: 2025-09-19
+date: 2025-09-19 12:00:00 +0900
 categories:
   - spring
 tags:
@@ -11,6 +11,7 @@ tags:
 > DispatcherServlet은 이런 번거로운 작업이나, 공통 작업 처리를 한다.
 
 <!-- more -->
+
 ## DispatcherServlet?
 - SpringMVC에서 핵심 Servlet역할을 담당하는 FrontController로써, 모든 HTTP요청을 중앙에서 제어하고 적절한 Controller로 분배하는 역할을 담당한다.
 - 클라이언트로부터 어떤 요청이 들어올 경우, Tomcat과 같은 WAS영역내에 있는 서블릿컨테이너의 DispatcherServlet이 가장 먼저 요청 정보를 받게된다. DispatcherServlet은 기존 Servlet이 담당했던 공통적인 작업을 처리하고, 해당 요청을 처리해야되는 Handler(Controller)를 찾아 작업을 위임한다.
