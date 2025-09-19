@@ -1,6 +1,6 @@
 ---
 title: Kafka 개념과 동작 프로세스, 구성 요소
-date: 2025-09-19 16:33
+date: 2025-09-19
 categories:
   - kafka
 tags:

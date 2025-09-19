@@ -1,6 +1,6 @@
 ---
 title: 도커 개념과 동작 프로세스
-date: 2025-09-19 15:45
+date: 2025-09-19
 categories:
   - devops
 tags:

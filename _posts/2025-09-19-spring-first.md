@@ -1,6 +1,6 @@
 ---
 title: DispatcherServlet
-date: 2025-09-19 16:40
+date: 2025-09-19
 categories:
   - spring
 tags:

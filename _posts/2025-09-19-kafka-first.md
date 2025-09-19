@@ -1,6 +1,6 @@
 ---
 title: 메시지 큐의 개념과 동작 프로세스
-date: 2025-09-19 16:26
+date: 2025-09-19
 categories:
   - kafka
 tags:
